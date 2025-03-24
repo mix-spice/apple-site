@@ -20,10 +20,6 @@ A visual, interactive showcase of the **Apple iPhone 15**, inspired by the offic
 - Lightweight, fast, and mobile-friendly
 - Apple-style branding with custom touch
 
-## Screenshots
-
-*(Add screenshots here if you want – they catch eyes on GitHub)*
-
 ## Installation
 
 ```bash
